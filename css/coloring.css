@@ -1,0 +1,32 @@
+
+h1 {
+  	font-family: "Courier", "sans-serif";
+}
+
+h6 p{
+  	text-align: right;
+  	padding: 30px;
+}
+
+.ast{
+   	z-index: 3;
+   	font-style: bold;
+  	position: fixed;
+  	padding: 30px;
+  	background-color: white;
+  	color: black;
+}
+
+
+
+.hey {
+	background-color: #00b38f;
+}
+
+.hay {
+	background-color: #99e6e6;
+}
+
+.footer {
+  	background-color: #004d4d;
+}
